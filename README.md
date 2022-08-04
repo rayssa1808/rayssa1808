@@ -1,5 +1,6 @@
 # sobre mim 
 
+- 🌿
 - 👋 Ola, meu nome é @rayssa1808.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 - 💞️  2006.
